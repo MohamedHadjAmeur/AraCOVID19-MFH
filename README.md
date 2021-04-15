@@ -30,7 +30,7 @@ Statistics about the number of tweets in each topic are provided in the below Ta
 The labels have been designed to consider some aspects relevant to the fact-checking task, such as the tweet's check worthiness, positivity/negativity, and factuality.  Though the dataset is mainly designed for fake news detection, it can also be used for hate speech detection, opinion/news classification, dialect identification, and many other tasks.
 
 ## Citations
-If you want to use the ANETAC dataset please cite the following paper:
+If you want to use the AraCOVID19-MFH dataset please cite the following paper:
 
 
 ## Contacts:
