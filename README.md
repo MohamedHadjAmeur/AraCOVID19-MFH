@@ -12,7 +12,7 @@ AraCOVID19-MFH is a manually annotated multi-label Arabic COVID-19 fake news and
  
 An example of the instances present in the dataset are provided in the below Table: 
 
-![Cat](https://github.com/MohamedHadjAmeur/AraCOVID19-MFH/blob/main/tweets_exemples.PNG)
+![Cat](https://github.com/MohamedHadjAmeur/AraCOVID19-MFH/blob/main/examples.JPG)
 
 ## CONTENTS
 
@@ -24,7 +24,7 @@ This repository contains three folders:
 
 Statistics about the number of tweets in each topic are provided in the below Table:
 
-![Cat](https://github.com/MohamedHadjAmeur/AraCOVID19-MFH/blob/main/Stats.PNG)
+![Cat](https://github.com/MohamedHadjAmeur/AraCOVID19-MFH/blob/main/stats.JPG)
 
 ## Usage
 The labels have been designed to consider some aspects relevant to the fact-checking task, such as the tweet's check worthiness, positivity/negativity, and factuality.  Though the dataset is mainly designed for fake news detection, it can also be used for hate speech detection, opinion/news classification, dialect identification, and many other tasks.
