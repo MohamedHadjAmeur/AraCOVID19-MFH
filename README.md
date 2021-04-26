@@ -3,12 +3,15 @@
 ## Description
 AraCOVID19-MFH is a manually annotated multi-label Arabic COVID-19 fake news and hate speech detection dataset. The dataset contains 10,828 Arabic tweets annotated with 10 different labels. AraCOVID19-MFH labels, values, and their signification are provided in the below Table:
 
-<img align="center" src="https://github.com/MohamedHadjAmeur/AraCOVID19-MFH/blob/main/desc.JPG" width="600">
-
+<p align="center">
+<img src="https://github.com/MohamedHadjAmeur/AraCOVID19-MFH/blob/main/desc.JPG" width="600">
+</p>
  
-An example of the instances present in the dataset are provided in the below Table: 
+An example of the instances present in the dataset are provided in the below Table:
 
-<img align="center" src="https://github.com/MohamedHadjAmeur/AraCOVID19-MFH/blob/main/examples.JPG" width="600">
+<p align="center">
+<img src="https://github.com/MohamedHadjAmeur/AraCOVID19-MFH/blob/main/examples.JPG" width="600">
+</p>
 
 ## CONTENT
 
@@ -20,7 +23,9 @@ This repository contains three files:
 
 Statistics about the number of tweets in each topic are provided in the below Table:
 
-<img align="center" src="https://github.com/MohamedHadjAmeur/AraCOVID19-MFH/blob/main/stats.JPG" width="600">
+<p align="center">
+<img src="https://github.com/MohamedHadjAmeur/AraCOVID19-MFH/blob/main/stats.JPG" width="600">
+</p>
 
 ## Usage
 
