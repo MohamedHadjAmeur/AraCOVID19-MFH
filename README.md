@@ -13,7 +13,7 @@ An example of the instances present in the dataset are provided in the below Tab
 <img src="https://github.com/MohamedHadjAmeur/AraCOVID19-MFH/blob/main/examples.JPG" width="800">
 </p>
 
-# CONTENT:
+# Content:
 
 
 This repository contains three files:
