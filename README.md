@@ -45,8 +45,9 @@ The AraCOVID19-MFH dataset is licensed under ``Creative Commons Attribution-Nonc
 
 
 # Citations
-If you want to use the AraCOVID19-MFH dataset please cite the following paper:
+Please cite as:
 
+``` bibtex
 @misc{ameur2021aracovid19mfh,
       title={AraCOVID19-MFH: Arabic COVID-19 Multi-label Fake News and Hate Speech Detection Dataset}, 
       author={Mohamed Seghir Hadj Ameur and Hassina Aliane},
@@ -55,6 +56,7 @@ If you want to use the AraCOVID19-MFH dataset please cite the following paper:
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
+
 
 
 # Contacts:
