@@ -1,5 +1,8 @@
 # AraCOVID19-MFH:  Arabic COVID-19 Multi-label Fake News & Hate Speech Detection Dataset
 
+# How to get the dataset:
+To get the full dataset please contact ``mohamedhadjameur@gmail.com`` 
+
 # Description:
 AraCOVID19-MFH [Arxiv URL](https://arxiv.org/abs/2105.03143) is a manually annotated multi-label Arabic COVID-19 fake news and hate speech detection dataset. The dataset contains 10,828 Arabic tweets annotated with 10 different labels. AraCOVID19-MFH labels, values, and their signification are provided in the below Table:
 
@@ -54,7 +57,7 @@ Please cite as:
 
 
 # Contacts:
-To get the dataset please contact ``mohamedhadjameur@gmail.com`` 
+To get the full dataset, or to get additional information please contact ``mohamedhadjameur@gmail.com`` 
 
 
 
