@@ -14,11 +14,6 @@ An example of the instances present in the dataset are provided in the below Tab
 </p>
 
 # Content:
-The dataset is available under three different file formats, you can choose the one that you are most comfortable with:
-
-* Dataset in XML format (.xml).
-* Dataset in TEXT format (.txt): Each instance in one line, the annotations of each instance are separated by the symbol ``|||||`` and their (value, types) separated by ``||``. 
-* Dataset in CSV format (.csv).
 
 Statistics about the number of tweets in each topic are provided in the below Table:
 
@@ -59,7 +54,7 @@ Please cite as:
 
 
 # Contacts:
-For all questions please contact ``mohamedhadjameur@gmail.com`` 
+To get the dataset please contact ``mohamedhadjameur@gmail.com`` 
 
 
 
