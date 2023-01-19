@@ -57,7 +57,7 @@ Please cite as:
 
 
 # Contacts:
-Please contact ``mohamedhadjameur@gmail.com``, ``ahassina@cerist.dz``, or ``drdhn@cerist.dz`` 
+To get the full dataset, or to get additional information please contact ``mohamedhadjameur@gmail.com``, ``ahassina@cerist.dz``, or ``drdhn@cerist.dz`` 
 
 
 
